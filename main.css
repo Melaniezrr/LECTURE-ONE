@@ -1,0 +1,15 @@
+body {
+  background-color: gray;
+}
+
+label {
+  display: block;
+}
+
+.box {
+  color: whitesmoke;
+  width: 400px;
+  border: 1px solid red;
+  margin: auto;
+  padding: 20px;
+}
